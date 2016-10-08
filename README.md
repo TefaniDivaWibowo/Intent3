@@ -20,7 +20,7 @@ Tampilan ketika sudah memilih aplikasi sms yang tersedia
 
 ![Screenshot Activity&Intent Intent3 E](https://github.com/TefaniDivaWibowo/Intent3/blob/master/XIIRPL1%2337%23Activity%26Intent%23Intent3_5.jpg)
 
-Tampilan ketika gambar browser ditekan (membuka aplikasi brower yang tersedia dan langsung mengakses link yang telah dituliskan dalam kode)
+Tampilan ketika gambar browser ditekan (membuka aplikasi browser yang tersedia dan langsung mengakses link yang telah dituliskan dalam kode)
 
 ![Screenshot Activity&Intent Intent3 F](https://github.com/TefaniDivaWibowo/Intent3/blob/master/XIIRPL1%2337%23Activity%26Intent%23Intent3_6.jpg)
 
